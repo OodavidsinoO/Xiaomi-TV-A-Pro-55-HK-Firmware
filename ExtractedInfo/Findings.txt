@@ -1,0 +1,48 @@
+GITV_HOST: upgrade.ptmi.gitv.tv
+HOST_HK: upgrade.g.duokanbox.com
+CNTV_HOST: upgrade.t001.ottcn.com
+
+======================================
+Need get these files:
+/system/vendor/app/build_info
+/system/build.prop
+/vendor/app/build_info
+
+Linux localhost 4.9.113 #1 SMP PREEMPT Thu Feb 1 12:53:04 CST 2024 armv7l
+
+======================================
+UpgradeType
+UPGRADE_TYPE_SCREEN_OFF(-4),
+UPGRADE_TYPE_SCREEN_SAVER(-3),
+UPGRADE_TYPE_STARTUP(-2),
+UPGRADE_TYPE_PERIOD(-1),
+UPGRADE_TYPE_SYSTEM_IDLE(0),
+UPGRADE_TYPE_MANUAL(1);
+
+======================================
+
+http://upgrade.ptmi.gitv.tv/tvservice/getupgradeinfo?upgradetype=0&appversion=1.1.4&incremental=3487&systemrelease=9&buildtype=user
+&product=mulan
+&buildid=PPR1.180610.011
+&deviceid=awdawdasdsads
+&apiver=1.8
+&ver=9.3487
+&codever=0
+&packagetype=full
+
+======================================
+
+http://upgrade.ptmi.gitv.tv/tvservice/getupgradeinfo?
+upgradetype=0
+&appversion=1.1.4
+&incremental=3487
+&systemrelease=9
+&buildtype=user
+&product=mulan
+&buildid=PPR1.180610.011
+&deviceid=awdawdasdsads
+&apiver=1.8
+&ver=9.3487
+&codever=0
+&packagetype=full
+&token=0f9dfa001cba164d7bda671649c50abf

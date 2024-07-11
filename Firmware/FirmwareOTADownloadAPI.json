@@ -1,0 +1,28 @@
+{
+    "content": "[功能]\r\n選單 “設定-訊號源-自動選擇開機進源” 選項\r\n內含新增可選項 “關閉/HDMI1/HDMI2/TV/AV/DTMB\"\r\n\r\n[系統]\r\n優化系統穩定性\r\n\r\n更新註意事項：\r\n1.系統更新過程中請勿斷電，否則可能造成系統損壞\r\n2.如您在使用過程中遇到任何問題，可致電 852-30773620 尋求協助",
+    "currcontent": "[功能]\r\n選單 “設定-訊號源-自動選擇開機進源” 選項\r\n內含新增可選項 “關閉/HDMI1/HDMI2/TV/AV/DTMB\"\r\n\r\n[系統]\r\n優化系統穩定性\r\n\r\n更新註意事項：\r\n1.系統更新過程中請勿斷電，否則可能造成系統損壞\r\n2.如您在使用過程中遇到任何問題，可致電 852-30773620 尋求協助",
+    "data": {
+        "appversion": "2.12.3521.0",
+        "availableversion": "9.3521",
+        "canupgrade": 0,
+        "content": "[功能]\r\n選單 “設定-訊號源-自動選擇開機進源” 選項\r\n內含新增可選項 “關閉/HDMI1/HDMI2/TV/AV/DTMB\"\r\n\r\n[系統]\r\n優化系統穩定性\r\n\r\n更新註意事項：\r\n1.系統更新過程中請勿斷電，否則可能造成系統損壞\r\n2.如您在使用過程中遇到任何問題，可致電 852-30773620 尋求協助",
+        "currcontent": "[功能]\r\n選單 “設定-訊號源-自動選擇開機進源” 選項\r\n內含新增可選項 “關閉/HDMI1/HDMI2/TV/AV/DTMB\"\r\n\r\n[系統]\r\n優化系統穩定性\r\n\r\n更新註意事項：\r\n1.系統更新過程中請勿斷電，否則可能造成系統損壞\r\n2.如您在使用過程中遇到任何問題，可致電 852-30773620 尋求協助",
+        "dv": "24.6.19.3521",
+        "extension": "d",
+        "force": 0,
+        "packagemd5": "28408c11e4fc8c3aa5706a445fcf71cd",
+        "packagesize": 730529394,
+        "packageurl": "",
+        "packageurl2": "http://ota.cdn.pandora.xiaomi.com/rom/1261/mulan/user/9.3521/9.3521/package-9.3521.zip",
+        "releasenotemd5": "",
+        "releasenoteurl": "http://file.market.xiaomi.com/download/Duokan/63edf8b8-7eb5-4c49-a0a8-c3c46bd53e9f/RELEASE_NOTES-9.3521.zip",
+        "releasenoteurl2": "http://ota.cdn.pandora.xiaomi.com/rom/1261/mulan/user/9.3521/9.3521/RELEASE_NOTES-9.3521.zip",
+        "superforce": 0,
+        "upgrade_threshold": 0,
+        "userLevel": 100,
+        "waitingtime": 0
+    },
+    "encoding": "UTF-8",
+    "language": "zh_CN",
+    "status": 0
+}
